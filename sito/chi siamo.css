@@ -1,0 +1,24 @@
+
+
+
+.top{
+background-color: blue;
+height: 90px;
+width: 206vh;
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+display: inline-block;
+position: absolute;
+left: 0px;
+top: 0px;
+text-align: center;
+
+}
+
+
+.back{
+
+position: absolute;
+top: 20px;
+}
