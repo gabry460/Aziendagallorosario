@@ -1,0 +1,75 @@
+
+.pinuccia{
+    background-image: url('foto\ 1.jpeg');
+    height: 608px;
+    width: 1536px;
+    position: absolute;
+    top: 137px;
+    left:0px;
+  }
+  .spi {
+      background-color: red;
+      color: black;
+      position: absolute;
+      top: 12px;
+      left: 60px;
+      border-radius: 6px;
+      
+      }
+      .sottoquad{
+          width: 1536px;
+          height: 47px;
+          background-color: black;
+          position: absolute;
+          top: 90px;
+          left:0px;
+          bottom: 109px;
+          display: inline-block;
+          
+          
+          }
+      
+  
+          
+  .sopra1{
+      background-image: url('download.jpg');
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 1536px;
+      height:90px;
+      text-align: center;
+      text-decoration:underline;
+      text-decoration:overline;
+  }
+  
+  
+  .faceBook{
+      position: absolute;
+      left: 200px;
+      top: 12px;
+      color:white;
+      background-size: 15px;
+      width: 63px;
+      height: 35px;
+    
+      
+    }
+  
+    .instagram{
+      position: absolute;
+      top: 12px;
+      left: 740px;
+      color: white;
+    }
+  
+    .tiktok{
+      position: absolute;
+      top: 12px;
+      left: 1200px;
+      color: white;
+    }
+  
+  
+  
+  

@@ -2,17 +2,51 @@
 propietà:red;
 } */
 
+.numero{
+
+  background-color: darkgray;
+  width: 70px;
+  height: 70px;
+  
+}
+.sopra{
+  background-image: url('download.jpg');
+  position: absolute;
+  top: 0px;
+  background-position:centre;
+  width: 1536px;
+  height: 90px;
+  text-align: center;
+  text-decoration:underline;
+  text-decoration:overline;
+
+  
+  }
+
+
 body{
-  background-image: url(.jpg);
-  background-repeat: no-repeat;
-  background-size: 1550px 900px;
+  background-image: url('foto 1.jpeg');
+  width: 1080px;
 
 
 }
+
+
+
+.lool{
+background-image: url('download.jpg');
+position: absolute;
+left: 0px;
+top: 0px;
+width: 30px;
+
+
+
+}
+
 .quadrato {
 width: 206vh;
 height: 90px;
-background-image: url(download.jpg);
 display: inline-block;
 list-style-type: none;
 margin-left: 0px;
@@ -22,6 +56,7 @@ left: 0px;
 top: 0px;
 padding-left: 0;
 margin-left: 0;
+
 }
 
 .titolo{
@@ -30,12 +65,13 @@ text-align: center;
 }
 
 .sottoquad{
-width: 1536px;
+width: 1537px;
 height: 47px;
 background-color: black;
 position: absolute;
 top: 90px;
 bottom: 109px;
+display: inline-block;
 
 
 }
@@ -57,21 +93,26 @@ transform: translate(-50%, -50%);
 
 }
 
-.io{
+.faceBook{
   position: absolute;
   left: 200px;
   top: 12px;
   color:white;
+  background-size: 15px;
+  width: 63px;
+  height: 35px;
+
+  
 }
 
-.p{
+.instagram{
   position: absolute;
   top: 12px;
   left: 740px;
   color: white;
 }
 
-.l{
+.tiktok{
   position: absolute;
   top: 12px;
   left: 1200px;
@@ -79,19 +120,23 @@ transform: translate(-50%, -50%);
 }
 
 
-.k{
+.chi_siamo{
 position: absolute;
-left: 65px;
-top: 90px;
+left: 60px;
+top: 50px;
+color: white;
+
 
 }
 
 
 
-.u{
+.dove_ci_potete_trovare{
   position: absolute;
-  left: 65px;
-  top: 120px;
+  left: 60px;
+  top: 80px;
+  color: white;
+
 
 
 
@@ -103,6 +148,8 @@ top: 90px;
   position: absolute;
   left: 65px;
   top: 150px;
+  color: white;
+
 
 
 
@@ -113,6 +160,8 @@ top: 90px;
   position: absolute;
   left: 65px;
   top: 170px;
+  color: white;
+
 
 
 
@@ -122,6 +171,7 @@ top: 90px;
   position: absolute;
   left: 65px;
   top: 200px;
+  color: white;
 
 
 }
@@ -136,6 +186,7 @@ top: 700px;
 
 
 }
+
 .email{
 color: black;
 position: absolute;
@@ -145,13 +196,41 @@ top: 650px;
 }
 
 .cubo{
+  border-radius: 20px;
+background-color: black;
+background-position: center;
 
-background-image: url(th.jpg);
-width: 200px;
-height: 280px;
+width: 190px;
+height: 240px;
 position: absolute;
-left: 662px;
+left: 667px;
 top: 325px;
 display: inline-block;
-
 }
+
+.altro{
+  position: absolute;
+  left: 60px;
+  top: 126px;
+  color: white;
+  
+  
+  }
+
+  .altro1{
+    position: absolute;
+    left: 60px;
+    top: 156px;
+    color: white;
+    
+    
+    }
+
+    .insta{
+      position: absolute;
+      left: 60px;
+      top: 186px;
+      color: white;
+      
+      
+      }
